@@ -1,6 +1,6 @@
 # networkcreep
 
-This is a python script that looks for local devices to the network your connected to.m
+This is a python script that looks for local devices to the network your connected to
 It works only in Linux and depends on netifices to get the IP and network subnet 
 Have to install with pip install netifices
 
